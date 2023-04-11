@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Shetara 👋🏾 👩🏾‍💻</h1>
 <h3 align="center"><em>A full stack developer determined to build the web, one line of code at a time!</em></h3>
 
-<p>As a former educator turned junior full stack developer, my goal is to use my teaching experience and love for learning to create high-quality software that enhances user experiences. With a passion for front-end and back-end development, I'm excited to explore new technologies, solve complex problems, and build projects that make a positive impact on people's lives.</p>
+<p>As a former educator turned full stack developer, my goal is to use my teaching experience and love for learning to create high-quality software that enhances user experiences. With a passion for front-end and back-end development, I'm excited to explore new technologies, solve complex problems, and build projects that make a positive impact on people's lives.</p>
 
 - 🌱 I’m currently learning **Angular, React**
 
